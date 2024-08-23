@@ -1,0 +1,159 @@
+*{
+    margin: 0;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.box{
+    border: 3px solid black;
+    width: 450px;
+    height: 650px;
+    margin: 100px 470px;
+}
+.box i{
+   margin: 10px 170px;
+    font-size: 100px;
+}
+
+.box h1{
+    margin: 10px 136px;
+    font-family: sans-serif;
+}
+
+.box p{
+    text-align: center;
+    font-size: 29px;
+}
+
+.box h2{
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+    height: 70px;
+    width: 350px;
+    line-height: 70px;
+    border-radius: 90px;
+    margin: 60px 39px;
+}
+.box h2:hover{
+    background-color: rgb(0, 251, 255);
+    color: rgb(255, 255, 255);
+}
+
+
+.bop{
+    border: 3px solid black;
+    width: 450px;
+    height: 650px;
+    margin: 10px 990px;
+    margin-top: -747px;
+    background-color: white;
+}
+.bop i{
+    font-size: 100px;
+  margin: 40px 160px;
+  color: black;
+}
+
+.bop h1{
+    color: black;
+    font-family: sans-serif;
+    margin: 10px 120px;
+}
+
+.bop p{
+    color: black;
+    font-size: 29px;
+    text-align: center;
+}
+
+.bop h2{
+    color: rgb(255, 0, 119);
+    font-family: sans-serif;
+   text-align: center;
+    background-color: white;
+    width: 350px;
+    height: 70px;
+    border-radius: 90px;
+    margin: 50px 50px;
+    line-height: 70px;
+}
+.bop h2:hover{
+    background-color: rgb(252, 0, 139);
+    color: white;
+}
+
+.boz{
+    border: 3px solid black;
+    width: 450px;
+    height: 650px;
+    margin: -660px 1500px;
+}
+
+.boz i{
+    font-size: 100px;
+    margin: 10px 166px;
+  
+}
+
+.box:hover{
+    background-color: aqua;
+    color: white;
+}
+
+.box i:hover{
+   
+    color: black;
+}
+
+.boz h1{
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.boz i:hover{
+    color: red;
+}
+
+.boz p{
+    text-align: center;
+    font-size: 29px;
+}
+
+.boz h2{
+    background-color: black;
+    color: white;
+    width: 350px;
+    height: 70px;
+    border-radius: 100px;
+    margin: 50px 50px;
+    text-align: center;
+    line-height: 70px;
+}
+
+.boz:hover{
+    background-color: red;
+    color: white;
+}
+
+.boz h2:hover{
+    background-color: red;
+    color: white;
+}
+
+.bop:hover{
+    background-color: rgb(255, 39, 154);
+    color: white;
+}
+.bop i:hover{
+    color:rgb(255, 0, 136);
+}
+
+.bop p:hover{
+    color: white;
+}
+
+.bop h1:hover{
+    color: white;
+}
